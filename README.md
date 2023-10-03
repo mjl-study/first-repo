@@ -1,2 +1,2 @@
 # first-repo
-<div style="color:blue">这是一个用于学习Git的示例仓库</div>
+<div style="color:blue;">这是一个用于学习Git的示例仓库</div>
